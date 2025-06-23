@@ -8,7 +8,7 @@ El problema se consideran estos puntos: A= (2,10); B=(2, 5); C=(8,4); D=(5,8); E
 Se pide ejecutar K-means por 3 iteraciones con centroides iniciales A, G, D
 Para dbscan se pide ejecutar pruebas con eps=2 y minpoints = 2, y eps=sqrt(10) y minpoints = 2
 
-## Aprendizaje Supervisado
+## Aprendizaje Por refuerzo
 Se comparan dos algoritmos, Q-Learning y SARSA, en dos ambientes distintos con recompensas y penalizaciones. El primer ambiente es un small grid, mientras que el segundo es un Cliff Walking.
 
 De acuerdo al archivo tutorial, se compila:
